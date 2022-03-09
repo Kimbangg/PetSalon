@@ -1,0 +1,13 @@
+export { default as AlarmPage } from './AlarmPage/AlarmPage';
+export { default as EditMyInfoPage } from './EditMyInfoPage/EditMyInfoPage';
+export { default as SigninPage } from './SigninPage/SigninPage';
+export { default as MainPage } from './MainPage/MainPage';
+export { default as PostDetailsPage } from './PostDetailsPage/PostDetailsPage';
+export { default as ResetPasswordPage } from './ResetPasswordPage/ResetPasswordPage';
+export { default as SearchPage } from './SearchPage/SearchPage';
+export { default as SettingPage } from './SettingPage/SettingPage';
+export { default as SignupPage } from './SignupPage/SignupPage';
+export { default as UserPostsPage } from './UserPostsPage/UserPostsPage';
+export { default as WritePostPage } from './WritePostPage/WritePostPage';
+export { default as NotFoundPage } from './NotFoundPage/NotFoundPage';
+export { default as EditPostPage } from './EditPostPage/EditPostPage';
