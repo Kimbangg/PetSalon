@@ -12,14 +12,14 @@
 <img src="https://img.shields.io/badge/-React-blue"> <img src="https://img.shields.io/badge/-Styled%20Component-ff69b4"> <img src="https://img.shields.io/badge/-Eslint-green">
 <img src="https://img.shields.io/badge/-Prettier-yellowgreen"> <img src="https://img.shields.io/badge/-Husky-orange"> <img src="https://img.shields.io/badge/-Style%20Lint-blueviolet">
 
-## 🖥 설치 방법
+## 🖥 설치 방법 ( 백엔드 서버 종료로 인해 데이터가 비어있습니다. )
 
 1. `.env` 파일을 루트에 생성하고 아래와 같이 입력해 주세요.
 
 ```
 SKIP_PREFLIGHT_CHECK=true
-API_END_POINT=http://13.209.30.200
-CHANNEL_ID=6182ac3ce1ecd063dabf10af
+API_END_POINT=''
+CHANNEL_ID=''
 ```
 
 2. `yarn` 이후 `yarn start` 입력해 주세요.
